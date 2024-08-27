@@ -1,0 +1,94 @@
+alta: a detailed dreamer|female|1985-1997|422
+angie: age 18 & 20|female|1996|48
+arlie: a middle-aged woman|female|1992-1998|212
+barb sanders|female|1960-1997|3116
+barb sanders #2|female|1997-2001|1138
+barb sanders: baseline|female|1960-1997|250
+bay area girls: grades 4-6|female|1996-1997|234
+bay area girls: grades 7-9|female|1996-1997|154
+bea 1: a high school student|female|2003-2005|223
+bea 2: a college student|female|2007-2010|63
+blind dreamers (f)|female|mid-1990s|238
+blind dreamers (m)|male|mid-1990s|143
+chris: a transvestite|male|1968|100
+chuck: a physical scientist|male|1991-1993|75
+college students, 1997-1998 (f)|female|1997-1998|160
+college students, 1997-1998 (m)|male|1997-1998|160
+college women, late 1940s|female|1946-1950|681
+dahlia: concerns with appearance|female|?|24
+david: teenage dreams|male|1990-1999|166
+detlev von uslar, auf deutsch|male|1949-2001|6100
+dorothea: 53 years of dreams|female|1912-1965|900
+ed: dreams of his late wife|male|1980-2002|143
+edna: a blind woman|female|1948-1949|19
+elizabeth: a woman in her 40s|female|1999-|1707
+emma's husband|male|1940-1998|72
+emma: 48 years of dreams|female|1949-1997|1221
+esther: an adolescent girl|female|1998|110
+german dreams (f)|female|1990s|397
+german dreams (m)|male|1990s|140
+hall/vdc norms: female|female|1940s-1950s|490
+hall/vdc norms: male|male|1940s-1950s|491
+izzy (all, including non-consecutive)|female|2003-2016|4352
+izzy (all)|female|2003-2016|4329
+izzy, age 12|female|2003-2004|52
+izzy, age 13|female|2004-2005|167
+izzy, age 14|female|2005-2006|249
+izzy, age 15|female|2006-2007|539
+izzy, age 16|female|2007-2008|845
+izzy, age 17|female|2008-2009|741
+izzy, age 18-21| |female|2009-2013|1359
+izzy, age 22-25| |female|2013-2016|377
+izzy, uncertain dates|female|1997-|23
+jasmine (all, including non-consecutive)|female|1999-2011|664
+jasmine (all)|female|1999-2011|625
+jasmine 1: middle school|female|1999-2001|39
+jasmine 2: high school|female|2001-2003|268
+jasmine 3: college 1|female|2003-2006|261
+jasmine 4: college 2|female|2010-2011|96
+jeff: a lucid dreamer|male|2000|87
+joan: a lesbian|female|mid-1980s|42
+kenneth|male|1996-1998|2022
+lawrence, a young man|male|2009|206
+mack: a poor recaller|male|late 1990s|38
+madeline 1: high school|female|1997-2000|98
+madeline 2: college dorms|female|2000-2001|186
+madeline 3: off-campus|female|2001-2003|348
+madeline 4: after college|female|2003-2004|294
+mark: a young boy|male|1997-1999|23
+melissa: a young girl|female|1998-2000|89
+melora (melvin's wife)|female|1962|211
+melvin (melora's husband)|male|1962|128
+merri: an artist|female|1999-2000|315
+miami home-lab: home|male|1963-1965|171
+miami home-lab: lab|male|1963-1965|274
+midwest teenagers (f)|female|1998|111
+midwest teenagers (m)|male|1998|83
+nancy: caring & headstrong|female|1997|44
+the natural scientist|male|1939|234
+norman: a child molester|male|1963-1967|1235
+pegasus: a factory worker|male|1949-1964|1093
+peruvian men|male|1970|384
+peruvian women|female|1970|382
+phil 1: teens|male|1957-1959|106
+phil 2: late 20s|male|1971|220
+phil 3: retirement|male|2004|180
+the physiologist|male|1897-1918|86
+pregnancy & abortion|female|1996-1997|226
+ringo: from the 1960s|male|1964|16
+robert bosnak: a dream analyst|male|?|53
+sally: a forester| |female|1983-2009|249
+samantha: in her 20s|female|1992-1999|63
+seventh grade girls|female|1996|69
+swiss children, auf deutsch (f)|female|1989-1995|164
+swiss children, auf deutsch (m)|male|1989-1995|135
+toby: a friendly party animal|male|2003-2006|33
+tom: an outgoing man|male|1990s|27
+ucsc women, 1996|female|1996|81
+van: a video gamer| |male|2007-|192
+vickie: a 10-year-old girl|female|1995|35
+vietnam vet: 1970-2008 war dreams|male|1970-2008|98
+vietnam vet: 2015 dreams|male|2015|32
+vietnam vet: 2016-17 dreams|male|2016-2017|463
+wedding dreams|female|1940s-1950s & 1990s|65
+west coast teenage girls|female|mid-1990s|89

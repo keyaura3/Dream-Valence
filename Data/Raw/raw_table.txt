@@ -1,0 +1,94 @@
+Alta: a detailed dreamer	[info]		female	1985-1997	422
+Angie: age 18 & 20	[info]		female	1996	48
+Arlie: a middle-aged woman	[info]		female	1992-1998	212
+Barb Sanders	[info]		female	1960-1997	3116
+Barb Sanders #2	[info]		female	1997-2001	1138
+Barb Sanders: baseline	[info]		female	1960-1997	250
+Bay Area girls: Grades 4-6	[info]		female	1996-1997	234
+Bay Area girls: Grades 7-9	[info]		female	1996-1997	154
+Bea 1: a high school student	[info]		female	2003-2005	223
+Bea 2: a college student	[info]		female	2007-2010	63
+Blind dreamers (F)	[info]		female	mid-1990s	238
+Blind dreamers (M)	[info]		male	mid-1990s	143
+Chris: a transvestite	[info]		male	1968	100
+Chuck: a physical scientist	[info]		male	1991-1993	75
+College students, 1997-1998 (F)	[info]		female	1997-1998	160
+College students, 1997-1998 (M)	[info]		male	1997-1998	160
+College women, late 1940s	[info]		female	1946-1950	681
+Dahlia: concerns with appearance	[info]		female	?	24
+David: teenage dreams	[info]		male	1990-1999	166
+Detlev von Uslar, auf Deutsch	[info]		male	1949-2001	6100
+Dorothea: 53 years of dreams	[info]		female	1912-1965	900
+Ed: dreams of his late wife	[info]		male	1980-2002	143
+Edna: a blind woman	[info]		female	1948-1949	19
+Elizabeth: a woman in her 40s	[info]		female	1999-	1707
+Emma's Husband	[info]		male	1940-1998	72
+Emma: 48 years of dreams	[info]		female	1949-1997	1221
+Esther: an adolescent girl	[info]		female	1998	110
+German dreams (F)	[info]		female	1990s	397
+German dreams (M)	[info]		male	1990s	140
+Hall/VdC Norms: Female	[info]		female	1940s-1950s	490
+Hall/VdC Norms: Male	[info]		male	1940s-1950s	491
+Izzy (ALL, including non-consecutive)	[info]		female	2003-2016	4352
+Izzy (all)	[info]		female	2003-2016	4329
+Izzy, age 12	[info]		female	2003-2004	52
+Izzy, age 13	[info]		female	2004-2005	167
+Izzy, age 14	[info]		female	2005-2006	249
+Izzy, age 15	[info]		female	2006-2007	539
+Izzy, age 16	[info]		female	2007-2008	845
+Izzy, age 17	[info]		female	2008-2009	741
+Izzy, age 18-21	 		female	2009-2013	1359
+Izzy, age 22-25	 		female	2013-2016	377
+Izzy, uncertain dates	[info]		female	1997-	23
+Jasmine (ALL, including non-consecutive)	[info]		female	1999-2011	664
+Jasmine (all)	[info]		female	1999-2011	625
+Jasmine 1: middle school	[info]		female	1999-2001	39
+Jasmine 2: high school	[info]		female	2001-2003	268
+Jasmine 3: college 1	[info]		female	2003-2006	261
+Jasmine 4: college 2	[info]		female	2010-2011	96
+Jeff: a lucid dreamer	[info]		male	2000	87
+Joan: a lesbian	[info]		female	mid-1980s	42
+Kenneth	[info]		male	1996-1998	2022
+Lawrence, a young man	[info]		male	2009	206
+Mack: A poor recaller	[info]		male	late 1990s	38
+Madeline 1: High School	[info]		female	1997-2000	98
+Madeline 2: College Dorms	[info]		female	2000-2001	186
+Madeline 3: Off-Campus	[info]		female	2001-2003	348
+Madeline 4: After College	[info]		female	2003-2004	294
+Mark: a young boy	[info]		male	1997-1999	23
+Melissa: a young girl	[info]		female	1998-2000	89
+Melora (Melvin's wife)	[info]		female	1962	211
+Melvin (Melora's husband)	[info]		male	1962	128
+Merri: an artist	[info]		female	1999-2000	315
+Miami Home-Lab: Home	[info]		male	1963-1965	171
+Miami Home-Lab: Lab	[info]		male	1963-1965	274
+Midwest teenagers (F)	[info]		female	1998	111
+Midwest teenagers (M)	[info]		male	1998	83
+Nancy: Caring & headstrong	[info]		female	1997	44
+The Natural Scientist	[info]		male	1939	234
+Norman: a child molester	[info]		male	1963-1967	1235
+Pegasus: a factory worker	[info]		male	1949-1964	1093
+Peruvian men	[info]		male	1970	384
+Peruvian women	[info]		female	1970	382
+Phil 1: teens	[info]		male	1957-1959	106
+Phil 2: late 20s	[info]		male	1971	220
+Phil 3: retirement	[info]		male	2004	180
+The Physiologist	[info]		male	1897-1918	86
+Pregnancy & Abortion	[info]		female	1996-1997	226
+Ringo: from the 1960s	[info]		male	1964	16
+Robert Bosnak: A dream analyst	[info]		male	?	53
+Sally: a forester	 		female	1983-2009	249
+Samantha: in her 20s	[info]		female	1992-1999	63
+Seventh grade girls	[info]		female	1996	69
+Swiss children, auf Deutsch (F)	[info]		female	1989-1995	164
+Swiss children, auf Deutsch (M)	[info]		male	1989-1995	135
+Toby: A friendly party animal	[info]		male	2003-2006	33
+Tom: An outgoing man	[info]		male	1990s	27
+UCSC women, 1996	[info]		female	1996	81
+Van: a video gamer	 		male	2007-	192
+Vickie: a 10-year-old girl	[info]		female	1995	35
+Vietnam Vet: 1970-2008 war dreams	[info]		male	1970-2008	98
+Vietnam Vet: 2015 dreams	[info]		male	2015	32
+Vietnam Vet: 2016-17 dreams	[info]		male	2016-2017	463
+Wedding dreams	[info]		female	1940s-1950s & 1990s	65
+West Coast teenage girls	[info]		female	mid-1990s	89
